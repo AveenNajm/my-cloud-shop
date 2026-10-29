@@ -8,7 +8,7 @@ $connectionOptions = array(
     "Uid" => "myadmin",
     "PWD" => "Abcdefgh0!",
     "Encrypt" => 1,
-    "TrustServerCertificate" => 0
+    "TrustServerCertificate" => 1
 );
 
 // Process form submission
