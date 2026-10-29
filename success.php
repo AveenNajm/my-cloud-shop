@@ -75,7 +75,7 @@
 
 <div class="success-message">
 
-    <div class="success-icon"></div>
+    <div class="success-icon">✓</div>
 
     <h2>Registration Successful!</h2>
 
